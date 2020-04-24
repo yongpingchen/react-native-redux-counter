@@ -22,11 +22,11 @@ and react-redux, and redux-thunk step by step.
 
 
 ### Redux
-- [Redux Core Concepts](https://redux.js.org/docs/introduction/CoreConcepts.html)
+- [Redux Core Concepts](https://redux.js.org/introduction/core-concepts)
 
-- [Redux Principles](https://redux.js.org/docs/introduction/ThreePrinciples.html)
+- [Redux Principles](https://redux.js.org/introduction/three-principles)
 
-- Part of [Redux basics](https://redux.js.org/docs/basics/)
+- Part of [Redux basics](https://redux.js.org/basics/basic-tutorial)
 
     Pleases read the following sections.
 
